@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookshop SYSTEM "program.dtd">
+<?xml-stylesheet type="text/xsl" href="program.xsl"?>
+
+<bookshop>
+
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <genre>Classic</genre>
+		<description>A tragic story of wealth, obsession, and the American Dream set in the Roaring Twenties.</description>
+        <price>9.99</price>       
+    </book>
+
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <genre>Dystopian</genre>
+		<description>A chilling depiction of totalitarianism, surveillance, and the loss of individual freedom.</description>
+        <price>8.50</price>        
+    </book>
+
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <genre>Drama</genre>
+		<description>A powerful story about justice, racism, and moral growth in the American South.</description>
+        <price>10.00</price>       
+    </book>
+
+    <book>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <genre>Fantasy</genre>
+		<description>A magical adventure following Bilbo Baggins on a dangerous quest filled with treasure and dragons.</description>
+        <price>12.99</price>       
+    </book>
+
+    <book>
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <genre>Romance</genre>
+		<description>A witty and romantic story about Elizabeth Bennet navigating love, family, and social expectations.</description>
+        <price>7.99</price>      
+    </book>
+
+    <book>
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <genre>Literary Fiction</genre>
+		<description>A coming-of-age story following Holden Caulfield as he struggles with identity, growing up, and belonging.</description>
+        <price>9.50</price>    
+    </book>
+
+    <book>
+        <title>The Alchemist</title>
+        <author>Paulo Coelho</author>
+        <genre>Inspirational</genre>
+		<description>A philosophical tale about following your dreams and listening to your heart’s true desires.</description>
+        <price>11.20</price>       
+    </book>
+
+    <book>
+        <title>The Lord of the Rings</title>
+        <author>J.R.R. Tolkien</author>
+        <genre>Fantasy</genre>
+		<description>An epic saga of friendship, courage, and the battle between good and evil in Middle-earth.</description>
+        <price>22.00</price>       
+    </book>
+
+    <book>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+		<description>The beginning of Harry's magical journey as he discovers Hogwarts and faces the return of dark forces.</description>
+        <price>8.99</price>       
+    </book>
+
+    <book>
+        <title>Harry Potter and the Goblet of Fire</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+		<description>Harry enters the dangerous Triwizard Tournament, uncovering secrets and facing dark magic.</description>
+        <price>8.99</price>        
+    </book>
+
+    <book>
+        <title>Harry Potter and the Deathly Hallows</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+		<description>The final battle against Voldemort as Harry and friends risk everything to save the wizarding world.</description>
+        <price>8.99</price>   
+    </book>
+
+    <book>
+        <title>My Best Friend's Exorcism</title>
+        <author>Grady Hendrix</author>
+        <genre>Horror Fiction</genre>
+		<description>A darkly funny horror story about friendship tested by a terrifying demonic possession.</description>
+        <price>12.99</price>
+    </book>
+
+    <book>
+        <title>Dracula</title>
+        <author>Bram Stoker</author>
+        <genre>Horror Fiction</genre>
+		<description>The classic tale of Count Dracula, blending fear, mystery, and gothic suspense.</description>
+        <price>10.00</price>
+    </book>
+
+    <book>
+        <title>Alice's Adventures in Wonderland</title>
+        <author>Lewis Carroll</author>
+        <genre>Fantasy</genre>
+		<description>A whimsical journey into a bizarre, dream-like world filled with curious characters and wild imagination.</description>
+        <price>11.20</price>
+    </book>
+
+    <book>
+        <title>The Shining</title>
+        <author>Stephen King</author>
+        <genre>Horror Fiction</genre>
+        <description>A psychological horror story about a family isolated in the haunted Overlook Hotel as dark forces consume the father.</description>
+        <price>15.00</price>
+    </book>
+
+    <book>
+        <title>Romeo and Juliet</title>
+        <author>William Shakespeare</author>
+        <genre>Tragedy</genre>
+        <description>A timeless tragic romance about two young lovers whose families' feud leads to heartbreak and fate-driven consequences.</description>
+        <price>19.00</price>
+    </book>
+
+    <link href="bookshop.html">Return to Main Page</link>
+</bookshop>
