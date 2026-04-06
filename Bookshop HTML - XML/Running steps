@@ -1,0 +1,8 @@
+/HTML - Click on file
+
+XML - Go to command prompt
+cd <path to file>
+py -m http.server
+
+Run the following in your navigator:
+http://localhost:8000/program.xml
